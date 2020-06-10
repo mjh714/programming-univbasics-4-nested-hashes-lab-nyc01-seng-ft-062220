@@ -85,6 +85,7 @@ def adding_matz
    :known_for => "Ruby",
    :languages => ["LISP", "C"]
  }
+ puts :yukihiro_matsumoto
 end
 
 def changing_alan
